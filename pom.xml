@@ -6,4 +6,9 @@
   <packaging>war</packaging>
   <name>Demo Application</name>
   <description>Derry's demo application</description>
+  <dependencies>
+  	<dependency>
+  		<artifactId></artifactId>
+  	</dependency>
+  </dependencies>
 </project>
